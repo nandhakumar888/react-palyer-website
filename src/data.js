@@ -1,0 +1,96 @@
+const data = [
+  {
+    id: 1,
+    name: "M S Dhoni",
+    position: "Batters",
+    team: "Indian Cricket Team",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwoEWn7J9jkQ9Z6Dj5HZ4Xev7NaX2p6uZZreh6pApmSyA3NSk5TS7B5uXyuG8FzVqP5U&usqp=CAU",
+  },
+  {
+    id: 2,
+    name: "Virat Kohli",
+    position: "Batters",
+    team: "Indian Cricket Team",
+    img: "https://nationaltoday.com/wp-content/uploads/2022/09/Virat-Kohli.jpg",
+  },
+  {
+    id: 3,
+    name: "S K Yadav",
+    position: "Batters",
+    team: "Indian Cricket Team",
+    img: "https://pbs.twimg.com/profile_images/1582311159910215683/doSdYa8e_400x400.jpg",
+  },
+  {
+    id: 4,
+    name: "R Ashwin",
+    position: "All rounders",
+    team: "Indian Cricket Team",
+    img: "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-689405376-e1517238726417.jpg",
+  },
+  {
+    id: 5,
+    name: "H Pandya",
+    position: "All rounders",
+    team: "Indian Cricket Team",
+    img: "https://www.forbesindia.com/media/images/2022/Sep/img_193681_000_32cn8uh_bg.jpg",
+  },
+  {
+    id: 6,
+    name: "K Pandya",
+    position: "All rounders",
+    team: "Indian Cricket Team",
+    img: "https://pbs.twimg.com/profile_images/1066934067680043009/2B8pC3Z__400x400.jpg",
+  },
+  {
+    id: 7,
+    name: "J Bumrah",
+    position: "Bowlers",
+    team: "Real Madrid",
+    img: "https://m.economictimes.com/thumb/msid-94498880,width-1200,height-900,resizemode-4,imgsize-50992/jasprit-bumrah.jpg",
+  },
+  {
+    id: 8,
+    name: "R Jadeja",
+    position: "Bowlers",
+    team: "Indian Cricket Team",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyd250s8y8So5yNqTqBjpFIgOZyYIGDGNvTRc4wHV_3uVIJDA8cMNrzzYWdoyVJYNM-E&usqp=CAU",
+  },
+  {
+    id: 9,
+    name: "M Siraj",
+    position: "Bowlers",
+    team: "Indian Cricket Team",
+    img: "https://i0.wp.com/sportzwiki.com/wp-content/uploads/2023/01/d6n2pfoo_mohammed-siraj-bcci_625x300_02_March_22-scaled.jpg?resize=800%2C600&ssl=1",
+  },
+  {
+    id: 10,
+    name: "U Yadav",
+    position: "Substitute",
+    team: "Indian Cricket Team",
+    img: "https://vivo-ipl.com/wp-content/uploads/2020/02/Umesh-Yadav.jpg",
+  },
+
+  {
+    id: 11,
+    name: "M Shami",
+    position: "Substitute",
+    team: "Indian Cricket Team",
+    img: "https://images.news18.com/ibnlive/uploads/2022/09/mohammed-shami-ap-1600.jpg",
+  },
+  {
+    id: 12,
+    name: "R Pant",
+    position: "Wicket Keepers",
+    team: "Indian Cricket Team",
+    img: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2022_12/story_16566/assets/2.png?time=1672384565",
+  },
+  {
+    id: 13,
+    name: "KS Bharath",
+    position: "Wicket Keepers",
+    team: "Indian Cricket Team",
+    img: "https://images.thequint.com/thequint%2F2023-02%2F889d094b-82f4-44d5-8905-3baaf80fe7c3%2FArjun240_0361__1_.jpg",
+  },
+];
+
+export default data;

@@ -1,2 +1,2 @@
-# react-palyer
- 
+# react-filter-project
+ React Filter Project
